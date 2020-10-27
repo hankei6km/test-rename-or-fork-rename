@@ -20,6 +20,19 @@ origin	git@github.com:hankei6km/test-rename-or-fork-rename.git (fetch)
 origin	git@github.com:hankei6km/test-rename-or-fork-rename.git (push)
 ```
 
-これがプッシュできれば push もリダイレクトされる
+これがプッシュできれば push もリダイレクトされる -> push できた。
 
+
+良いところ
+
+- 設定で変更するだけで簡単
+- リダイレクトの設定があるので当面はローカル設定などの変更はいらない
+
+良くないところ
+
+- 変更したということが確認できない(たぶん)
+
+疑問点
+
+- Vercel のデプロイ設定はどうなる? 
 
